@@ -11,3 +11,6 @@ out/production/Sball/game/paddles/HumanPaddle.class
 out/production/Sball/game/Ball$MovementType.class
 out/production/Sball/game/Ball.class
 *.class
+.idea/misc.xml
+.idea/uiDesigner.xml
+.idea/modules.xml
